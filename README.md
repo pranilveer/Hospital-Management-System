@@ -15,7 +15,7 @@
 <ul>
     <li>Clone the Repo: <br> </li>
     <li style=""> > git clone https://github.com/pranilveer/hm-system</li>
-    <li> > cd hospitalMS</li>
+    <li> > cd hm-system</li>
     <li> > composer install</li>
     <li> > cp .env.example .env</li>
     <li> > Set up .env file</li>
