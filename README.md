@@ -25,6 +25,5 @@
     <li> > php artisan serve</li>
     <li> <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> </li>
     </ul>
-    <p style="color:yellow">If you like our project please leave a star ❤<p>
 
 
